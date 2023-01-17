@@ -1,0 +1,30 @@
+.champ_container {
+    margin-left: auto;
+    margin-right:auto;
+
+}
+.items {
+    display: flex;
+    justify-content: center;
+}
+.champ_stats {
+    justify-content: center;
+}
+
+.champion_face {
+    display: flex;
+    justify-content: left;
+}
+
+.team {
+    display: flex;
+    justify-content: center;
+}
+
+.left {
+    justify-content: left;
+}
+
+.right {
+    justify-content: right;
+}
